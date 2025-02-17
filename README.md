@@ -1,4 +1,12 @@
-## Intermediate Machine Learning in Kaggle 
+Kaggle Intermediate Machine Learning — 2025 Solutions 
+=====================
+
+-   [Course Link](https://www.kaggle.com/learn/intermediate-machine-learning)
+
+-   [My Certificate](https://www.kaggle.com/learn/certification/dariushbabaki/intermediate-machine-learning)
+
+
+## Table of Contents 
 
 1. [Introduction](intermediate_machine_learning/01-introduction.ipynb)   
 Review what you need for this Micro-Course.
@@ -20,3 +28,10 @@ The most accurate modeling technique for structured data.
 
 7. [Data Leakage](intermediate_machine_learning/07-data-leakage.ipynb)  
 Find and fix this problem that ruins your model in subtle ways.
+
+
+I finished this course on January 26, 2025.
+The picture below shows my certificate after completing all the assignments:
+
+
+![Machine Learning](image/machine_learning.png)
